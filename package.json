@@ -1,0 +1,13 @@
+{
+  "name": "bin-links-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "bin-links": "bin-links-cli.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
